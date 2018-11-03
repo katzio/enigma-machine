@@ -1,0 +1,8 @@
+
+enigma_machine\.egg-info/
+
+\.vscode/
+
+Pipfile\.lock
+
+Pipfile
